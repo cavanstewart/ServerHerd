@@ -7,7 +7,7 @@ import async_timeout
 import re
 #ports 12696-12704       
 
-api_key = "AIzaSyBQMYOM_KtUsb1nvSWlMZV0l9223uWetw8"
+api_key = ""
 palces_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?"
 
 client_dict = {}
